@@ -13,7 +13,7 @@ fetch(url)
       const temp = `
           <figure>
             <figcaption>${student.name}</figcaption>
-            <img src="${student.image.url}" alt="Placeholder" />
+            <img src="${student.image.url}" alt="Student Image" />
           </figure>
        `;
 
